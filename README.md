@@ -62,21 +62,21 @@ python main.py
 ```
 ---
 ## 💻 Commands You Can Try
-### 🔹 "Open YouTube": Launch YouTube in your browser.
+**🔹 "Open YouTube": Launch YouTube in your browser.**
 
-### 🔹 "Open Wikipedia": Quickly access Wikipedia.
+**🔹 "Open Wikipedia": Quickly access Wikipedia.**
 
-### 🔹 "Open Google": Start your Google search.
+**🔹 "Open Google": Start your Google search.**
 
-### 🔹 "Open Music": Play your favorite music.
+**🔹 "Open Music": Play your favorite music.**
 
-### 🔹 "What's the time?": Know the current time.
+**🔹 "What's the time?": Know the current time.**
 
-### 🔹 "Using artificial intelligence": Explore AI-powered responses.
+**🔹 "Using artificial intelligence": Explore AI-powered responses.**
 
-### 🔹 "Reset Chat": Clear chat history.
+**🔹 "Reset Chat": Clear chat history.**
 
-### 🔹 "Jarvis Quit": Shut down Jarvis.
+**🔹 "Jarvis Quit": Shut down Jarvis.**
 ---
 ## 📂 Project Structure
 
@@ -86,22 +86,31 @@ python main.py
 
 ---
 ## 🛠️ How It Works
-### 1️⃣ Speech-to-Text: Captures your voice commands and converts them to text using speech_recognition.
-### 2️⃣ AI Processing: Sends your command to OpenAI's GPT model for processing.
-### 3️⃣ Text-to-Speech: Converts AI-generated responses into speech using pyttsx3 or system commands.
+**1️⃣ Speech-to-Text: Captures your voice commands and converts them to text using speech_recognition.**
+
+**2️⃣ AI Processing: Sends your command to OpenAI's GPT model for processing.**
+
+**3️⃣ Text-to-Speech: Converts AI-generated responses into speech using pyttsx3 or system commands.**
 
 ## 🌟 Contributing
+
 **We’d love your help in making Jarvis even smarter and cooler!**
 
-### 🔧 Add Features: Extend functionality with new commands.
-### 🛠️ Fix Bugs: Improve stability and performance.
-### 🎨 Enhance UX: Make Jarvis more interactive and intuitive.
+**🔧 Add Features: Extend functionality with new commands.**
+
+**🛠️ Fix Bugs: Improve stability and performance.**
+
+**🎨 Enhance UX: Make Jarvis more interactive and intuitive.**
+
 ---
 ## To contribute:
 
-### 1)Fork the repository.
-### 2)Make your changes.
-### 3)Submit a pull request.
+**1)Fork the repository.**
+
+**2)Make your changes.**
+
+**3)Submit a pull request.**
+
 ---
 ## 🎉 Acknowledgments
 **🤝 OpenAI for their state-of-the-art language models.**
